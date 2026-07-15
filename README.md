@@ -39,6 +39,7 @@
 ### Database
 
 * MongoDB
+* SQL
 
 ### Tools & Platforms
 
