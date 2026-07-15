@@ -19,6 +19,7 @@
 * JavaScript
 * Java
 * Python
+* SQL
 
 
 ### Frontend
@@ -39,7 +40,8 @@
 ### Database
 
 * MongoDB
-* SQL
+* MySQL
+* postgreSQL
 
 ### Tools & Platforms
 
