@@ -40,6 +40,8 @@ I'm a Full-Stack Developer specializing in the **MERN stack** and **FastAPI**, f
 ![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
 ![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
+![JWT](https://img.shields.io/badge/-JWT%20Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![Razorpay](https://img.shields.io/badge/-Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=white)
  
 **Database**
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
@@ -74,14 +76,13 @@ Production website built end-to-end for a business client.
 Full-stack MERN application with real-time inventory tracking.
 - Implemented **Redux-Saga** for predictable, scalable state management
 - Built real-time inventory updates and scalable, reusable REST APIs
-- **Stack:** MongoDB, Express, React, Node.js, Redux-Saga
+- Secured routes with **JWT authentication** and integrated **Razorpay** for payment processing
+- **Stack:** MongoDB, Express, React, Node.js, Redux-Saga, JWT, Razorpay
 #### 📰 [News & Citizen Journalism App](#)
 Backend powering a mobile-first news platform.
 - Developed **25+ RESTful APIs** using **FastAPI** and MongoDB
 - Optimized database queries and backend performance for mobile clients
 - Supported both **Android and iOS** applications
-> 
- 
 ---
  
 ### 📊 GitHub Stats
@@ -104,3 +105,4 @@ Backend powering a mobile-first news platform.
   <!-- <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a> -->
 </p>
 <p align="center"><i>⭐ Always exploring new technologies and shipping products that solve real problems.</i></p>
+ 
