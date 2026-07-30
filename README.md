@@ -80,7 +80,7 @@ Backend powering a mobile-first news platform.
 - Developed **25+ RESTful APIs** using **FastAPI** and MongoDB
 - Optimized database queries and backend performance for mobile clients
 - Supported both **Android and iOS** applications
-> 💡 *Add your live demo and repo links in place of the `#` placeholders above — recruiters click through when they can.*
+> 
  
 ---
  
