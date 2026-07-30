@@ -15,39 +15,105 @@
 
 ## 🛠️ Tech Stack
 
-### Languages
-* JavaScript
-* Java
-* Python
-* SQL
+Languages
+• JavaScript (ES6+)
+• TypeScript
+• Java
+• Python
+• SQL
+• NoSQL
 
+Frontend
+• React.js
+• Next.js
+• Redux Toolkit
+• React Router
+• Context API
+• Tailwind CSS
+• Material UI (MUI)
+• Bootstrap
+• HTML5
+• CSS3
+• Responsive Web Design
+• Axios
+• React Hook Form
+• Framer Motion
 
-### Frontend
+Backend
+• Node.js
+• Express.js
+• FastAPI
+• RESTful APIs
+• GraphQL
+• Socket.io
+• JWT Authentication
+• OAuth
+• Authentication & Authorization
+• Middleware Development
+• API Development
+• Multer
+• Cloudinary
+• Razorpay Integration
+• Webhooks
 
-* React.js
-* Next.js
-* Redux Toolkit
-* Tailwind CSS
-* HTML5 & CSS3
+Database
+• MongoDB
+• Mongoose
+• MySQL
+• PostgreSQL
+• Redis
+• Prisma
+• Database Design
+• Aggregation Pipeline
 
-### Backend
+Cloud & DevOps
+• Cloudflare
+• Cloudflare Workers
+• Cloudflare R2
+• Git
+• GitHub
+• GitHub Actions
+• Docker
+• AWS (EC2, S3)
+• Vercel
+• Render
+• Netlify
+• CI/CD
+• Linux
 
-* Node.js
-* Express.js
-* FastAPI
-* Socket.io
+Testing & Tools
+• Postman
+• Jest
+• React Testing Library
+• Cypress
+• VS Code
+• npm
+• Yarn
+• pnpm
+• ESLint
+• Prettier
+• Vite
+• Swagger/OpenAPI
 
-### Database
-
-* MongoDB
-* MySQL
-* postgreSQL
-
-### Tools & Platforms
-
-* Git & GitHub
-* Postman
-* VS Code
+Concepts
+• MERN Stack
+• Full Stack Development
+• REST API Development
+• CRUD Operations
+• MVC Architecture
+• Object-Oriented Programming (OOP)
+• Data Structures & Algorithms
+• Authentication & Authorization
+• Role-Based Access Control (RBAC)
+• State Management
+• Real-time Applications
+• Performance Optimization
+• Responsive Design
+• SEO
+• Server-Side Rendering (SSR)
+• Static Site Generation (SSG)
+• Incremental Static Regeneration (ISR)
+• Agile Methodology
 
 ---
 
