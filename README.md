@@ -58,10 +58,29 @@ I'm a Full-Stack Developer specializing in the **MERN stack** and **FastAPI**, f
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
  
+**Security & Auth**
+![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![OAuth](https://img.shields.io/badge/-OAuth%202.0-3423A6?style=flat-square&logo=auth0&logoColor=white)
+![bcrypt](https://img.shields.io/badge/-bcrypt-8A2BE2?style=flat-square)
+![OWASP](https://img.shields.io/badge/-OWASP%20Best%20Practices-000000?style=flat-square&logo=owasp&logoColor=white)
+ 
+---
+ 
+### 🎯 Core Competencies (MERN Full-Stack)
+ 
+`MERN Stack` `Full-Stack Development` `RESTful API Design` `GraphQL` `Microservices Architecture` `MVC Architecture` `OOP` `Data Structures & Algorithms` `System Design` `JWT & OAuth Authentication` `Role-Based Access Control (RBAC)` `Payment Gateway Integration` `Webhook Handling` `API Security` `Input Validation & Sanitization` `Rate Limiting` `Data Encryption` `Redux Toolkit & Redux-Saga` `State Management` `Server-Side Rendering (SSR)` `Static Site Generation (SSG)` `Real-Time Applications (Socket.io)` `Database Design & Aggregation Pipelines` `Caching (Redis)` `CI/CD` `Docker & Containerization` `Cloud Deployment (AWS, Vercel, Render)` `Unit & Integration Testing` `Agile Methodology` `Performance Optimization` `SEO`
+ 
 ---
  
 ### 📌 Featured Projects
  
+#### 💳 [Secure Payment System — MERN](#)
+Full-stack payment processing platform built with security-first practices.
+- Integrated **Razorpay** payment gateway with **webhook signature verification** for reliable, tamper-proof transaction confirmation
+- Implemented **JWT-based authentication & authorization** with refresh token rotation and role-based access control
+- Applied security best practices: **input validation & sanitization**, **rate limiting**, **HTTPS enforcement**, **bcrypt password hashing**, environment-based secret management, and protection against **CSRF, XSS, and NoSQL injection**
+- Designed idempotent payment APIs to safely handle retries and prevent duplicate transactions
+- **Stack:** React, Node.js, Express, MongoDB, JWT, Razorpay
 #### 🚖 [Corporate Taxi Management System](#)
 Real-time admin dashboard for ride, vendor, and fleet management.
 - Built live ride tracking with **Socket.io** for real-time location updates
@@ -105,4 +124,3 @@ Backend powering a mobile-first news platform.
   <!-- <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a> -->
 </p>
 <p align="center"><i>⭐ Always exploring new technologies and shipping products that solve real problems.</i></p>
- 
