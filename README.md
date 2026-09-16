@@ -1,100 +1,111 @@
 <h1 align="center">Hi, I'm Jaikishan Gupta 👋</h1>
-<h3 align="center">Full-Stack Developer (MERN) | Building scalable, production-ready web apps</h3>
-
+<h3 align="center">Full-Stack Developer | MERN & FastAPI | Building scalable, production-ready web apps</h3>
+ 
 <p align="center">
   <a href="mailto:jaikishang724@gmail.com"><img src="https://img.shields.io/badge/Email-jaikishang724%40gmail.com-D14836?style=flat&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/jaikishan-gupta-sd"><img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/jai1998kishan"><img src="https://img.shields.io/badge/GitHub-jai1998kishan-181717?style=flat&logo=github&logoColor=white" /></a>
   <img src="https://img.shields.io/badge/Open%20to-Freelance%20%26%20Full--Time-brightgreen?style=flat" />
+  <img src="https://img.shields.io/badge/Status-Actively%20Building-blue?style=flat" />
 </p>
-
 ---
-
+ 
 ### 🧭 About Me
-
-Full Stack (MERN) Developer with hands-on experience building scalable web applications using **React.js, Next.js, Node.js, Express.js, and MongoDB**. Skilled in RESTful API design, role-based admin dashboards, real-time applications, JWT authentication, and MongoDB aggregation. Passionate about writing clean, secure, scalable code and optimizing performance and UX.
-
-- 🔭 Currently freelancing as a Full Stack Developer, building production websites and web apps for business clients
-- 🌱 Deepening my knowledge of backend architecture, system design, and DSA
-- 🤝 Open to freelance and full-time Full-Stack (MERN) roles
-- 📍 Based in Ghaziabad, India
+ 
+I'm a Full-Stack Developer specializing in the **MERN stack** and **FastAPI**, focused on building scalable admin dashboards, REST/GraphQL APIs, and real-time applications. I care about clean architecture, performance, and shipping products that actually work in production — not just in a demo.
+ 
+- 🔭 Currently freelancing on full-stack web applications for business clients
+- 🌱 Deepening my knowledge of backend architecture & system design
+- 🤝 Open to collaboration on web development projects and freelance/full-time roles
 - 📫 Reach me at **[jaikishang724@gmail.com](mailto:jaikishang724@gmail.com)**
-
 ---
-
+ 
 ### 🛠️ Tech Stack
-
+ 
 **Languages**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/-Java-007396?style=flat-square&logo=openjdk&logoColor=white)
 ![SQL](https://img.shields.io/badge/-SQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
+ 
 **Frontend**
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js&logoColor=white)
-![Redux Toolkit](https://img.shields.io/badge/-Redux%20Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
-![React Query](https://img.shields.io/badge/-React%20Query-FF4154?style=flat-square&logo=reactquery&logoColor=white)
+![Redux](https://img.shields.io/badge/-Redux%20Toolkit-764ABC?style=flat-square&logo=redux&logoColor=white)
 ![Tailwind](https://img.shields.io/badge/-Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
+![MUI](https://img.shields.io/badge/-Material%20UI-007FFF?style=flat-square&logo=mui&logoColor=white)
+ 
 **Backend**
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express.js-000000?style=flat-square&logo=express&logoColor=white)
+![FastAPI](https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![GraphQL](https://img.shields.io/badge/-GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white)
 ![Socket.io](https://img.shields.io/badge/-Socket.io-010101?style=flat-square&logo=socket.io&logoColor=white)
 ![JWT](https://img.shields.io/badge/-JWT%20Auth-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
-
-**Database & Tools**
+![Razorpay](https://img.shields.io/badge/-Razorpay-02042B?style=flat-square&logo=razorpay&logoColor=white)
+ 
+**Database**
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white)
+ 
+**Cloud, DevOps & Tools**
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Cloudflare](https://img.shields.io/badge/-Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?style=flat-square&logo=vercel&logoColor=white)
-![Render](https://img.shields.io/badge/-Render-46E3B7?style=flat-square&logo=render&logoColor=white)
-
+![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+ 
+**Security & Auth**
+![JWT](https://img.shields.io/badge/-JWT-000000?style=flat-square&logo=jsonwebtokens&logoColor=white)
+![OAuth](https://img.shields.io/badge/-OAuth%202.0-3423A6?style=flat-square&logo=auth0&logoColor=white)
+![bcrypt](https://img.shields.io/badge/-bcrypt-8A2BE2?style=flat-square)
+![OWASP](https://img.shields.io/badge/-OWASP%20Best%20Practices-000000?style=flat-square&logo=owasp&logoColor=white)
+ 
 ---
-
-### 💼 Experience
-
-**Full Stack Developer (Freelance)** — DigitalCodeUp, Ghaziabad, UP · *Oct 2025 – May 2026*
-- Developed and maintained a responsive business website using Next.js, React.js, and Tailwind CSS with reusable UI components
-- Integrated Google Sheets API for automated lead collection and GA4 for traffic, user behavior, and conversion tracking
-- Improved website performance, SEO, and UX through optimized routing, image optimization, and responsive design
-
-**Software Developer Intern** — Fourbrick Technology OPC Pvt. Ltd., Noida, UP · *Jun 2025 – Oct 2025*
-- Built a role-based admin dashboard for managing ride bookings, vendors, and cab services using React.js, TypeScript, and REST APIs
-- Developed real-time driver and vendor tracking using Socket.IO and implemented GST-compliant billing and invoicing workflows
-- **Improved operational efficiency by 25%** through workflow automation and UI improvements
-
+ 
+### 🎯 Core Competencies (MERN Full-Stack)
+ 
+`MERN Stack` `Full-Stack Development` `RESTful API Design` `GraphQL` `Microservices Architecture` `MVC Architecture` `OOP` `Data Structures & Algorithms` `System Design` `JWT & OAuth Authentication` `Role-Based Access Control (RBAC)` `Payment Gateway Integration` `Webhook Handling` `API Security` `Input Validation & Sanitization` `Rate Limiting` `Data Encryption` `Redux Toolkit & Redux-Saga` `State Management` `Server-Side Rendering (SSR)` `Static Site Generation (SSG)` `Real-Time Applications (Socket.io)` `Database Design & Aggregation Pipelines` `Caching (Redis)` `CI/CD` `Docker & Containerization` `Cloud Deployment (AWS, Vercel, Render)` `Unit & Integration Testing` `Agile Methodology` `Performance Optimization` `SEO`
+ 
 ---
-
+ 
 ### 📌 Featured Projects
-
-#### 🤖 [AI-Powered Resume Analyzer & Resume Builder](https://github.com/jai1998kishan) <!-- add exact repo link -->  &nbsp;|&nbsp; [Live Site](#) <!-- add live URL -->
-*May 2026*
-- Built an AI-powered app to analyze resumes against job descriptions, identify skill gaps, and generate personalized recommendations
-- Developed ATS optimization reports covering strengths, improvement areas, recommended skills, and learning roadmaps
-- Built an ATS-friendly resume builder that generates customized resumes based on job requirements
-- **Stack:** React.js, Tailwind CSS, Node.js, Express.js, MongoDB, Groq AI
-
-#### 🛒 [E-Commerce Web Application](https://github.com/jai1998kishan) <!-- add exact repo link -->
-*March 2025*
-- Built a full-stack MERN e-commerce platform with secure authentication, product management, and RESTful APIs
-- Developed an admin inventory system managing **50+ products**, with optimized API performance for scalability
-- **Stack:** React.js, Redux Toolkit, Node.js, Express.js, MongoDB
-
+ 
+#### 💳 [Secure Payment System — MERN](#)
+Full-stack payment processing platform built with security-first practices.
+- Integrated **Razorpay** payment gateway with **webhook signature verification** for reliable, tamper-proof transaction confirmation
+- Implemented **JWT-based authentication & authorization** with refresh token rotation and role-based access control
+- Applied security best practices: **input validation & sanitization**, **rate limiting**, **HTTPS enforcement**, **bcrypt password hashing**, environment-based secret management, and protection against **CSRF, XSS, and NoSQL injection**
+- Designed idempotent payment APIs to safely handle retries and prevent duplicate transactions
+- **Stack:** React, Node.js, Express, MongoDB, JWT, Razorpay
+#### 🚖 [Corporate Taxi Management System](#)
+Real-time admin dashboard for ride, vendor, and fleet management.
+- Built live ride tracking with **Socket.io** for real-time location updates
+- Designed booking, billing, and analytics modules used to manage day-to-day operations
+- **Stack:** React, Node.js, Express, MongoDB, Socket.io
+#### 🌐 [Business Website — Freelance Client Project](#)
+Production website built end-to-end for a business client.
+- Built with **Next.js, React, and Tailwind CSS**, optimized for SEO and performance
+- Integrated **Google Sheets API** to automate form submissions and data handling
+- Set up **GA4** tracking to measure traffic and conversions for the client
+#### 🛒 [E-Commerce Web Application](#)
+Full-stack MERN application with real-time inventory tracking.
+- Implemented **Redux-Saga** for predictable, scalable state management
+- Built real-time inventory updates and scalable, reusable REST APIs
+- Secured routes with **JWT authentication** and integrated **Razorpay** for payment processing
+- **Stack:** MongoDB, Express, React, Node.js, Redux-Saga, JWT, Razorpay
+#### 📰 [News & Citizen Journalism App](#)
+Backend powering a mobile-first news platform.
+- Developed **25+ RESTful APIs** using **FastAPI** and MongoDB
+- Optimized database queries and backend performance for mobile clients
+- Supported both **Android and iOS** applications
 ---
-
-### 🎓 Education
-
-**Bachelor of Engineering — Electronics and Communication Engineering (ECE)**
-Meerut Institute of Engineering & Technology (MIET), Meerut, UP · 2018 – 2022 · CGPA: 7.02/10.0
-
----
-
+ 
 ### 📊 GitHub Stats
-
+ 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=jai1998kishan&show_icons=true&theme=default&hide_border=true" />
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jai1998kishan&layout=compact&hide_border=true" />
@@ -102,15 +113,14 @@ Meerut Institute of Engineering & Technology (MIET), Meerut, UP · 2018 – 2022
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=jai1998kishan&hide_border=true" />
 </p>
-
 ---
-
+ 
 ### 🤝 Let's Connect
-
+ 
 <p align="center">
   <a href="mailto:jaikishang724@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/jaikishan-gupta-sd"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://github.com/jai1998kishan"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <!-- Add your LinkedIn and portfolio links below for maximum recruiter visibility -->
+  <!-- <a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> -->
+  <!-- <a href="#"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" /></a> -->
 </p>
-
 <p align="center"><i>⭐ Always exploring new technologies and shipping products that solve real problems.</i></p>
